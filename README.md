@@ -1,10 +1,29 @@
-# B2203458
-# Thông tin cá nhân
+# 👨‍💻 Bài Tập Nhóm - Môn Phát triển web
 
-- Họ và tên: Trần Thị Minh Ngọc  
-- Mã số sinh viên: B2203458  
-- Lớp: Phát triển web
-- Trường: Công nghệ thông tin và truyền thông
+## 📝 Thông Tin Nhóm
+- **Thành viên:**
+  - Trần Thị Minh Ngọc 
+  - Nguyễn Thành Phát
+  - Nguyễn Hoàng Hồng Nhung
 
-## Giới thiệu
-Xin chào! Mình là Minh Ngọc. Đây là repository đầu tiên của mình trên GitHub để thực hành tạo repository và quản lý mã nguồn.
+---
+
+## 📌 Nội Dung Bài Tập
+- ✅ Bài 1: Giới thiệu về Git và GitHub.
+- ✅ Bài 2: Thực hành các lệnh cơ bản Git.
+- ✅ Bài 3: Upload file thực hành buổi 3.
+- ✅ Bài 4: Upload file thực hành buổi 4.
+- ✅ Bài 5: Chỉnh sửa và hoàn thiện README.md.
+- ✅ Bài 6: Thêm các contributor vào nhóm.
+
+---
+
+## 🚀 Cách sử dụng
+```bash
+git clone https://github.com/Lacdayne/B2203458.git
+cd B2203458
+
+## 📷 Hình ảnh minh họa
+![image](https://github.com/user-attachments/assets/d414276c-bf7c-4045-9a0e-7bc7fd1fa120)
+
+
