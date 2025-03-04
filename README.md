@@ -24,6 +24,6 @@ git clone https://github.com/Lacdayne/B2203458.git
 cd B2203458
 
 ## 📷 Hình ảnh minh họa
-![image](https://github.com/user-attachments/assets/d414276c-bf7c-4045-9a0e-7bc7fd1fa120)
+[![image](https://github.com/Lacdayne/B2203458/blob/main/golden%20hour.jpg)
 
 
